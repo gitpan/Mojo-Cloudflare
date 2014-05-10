@@ -1,5 +1,5 @@
 ---
-abstract: 'Talk with the cloudflare API using Mojo::UserAgent'
+abstract: 'Talk with the Cloudflare API using Mojo::UserAgent'
 author:
   - 'Jan Henning Thorsen <jhthorsen@cpan.org>'
 build_requires:
@@ -24,4 +24,4 @@ resources:
   homepage: https://metacpan.org/release/Mojo-Cloudflare
   license: http://dev.perl.org/licenses/
   repository: https://github.com/jhthorsen/mojo-cloudflare.git
-version: 0.02
+version: 0.03
